@@ -1,0 +1,18 @@
+{
+  "name": "StarterRepository",
+  "tree": {
+    "$className": "DataModel",
+    
+    "ReplicatedStorage": {
+      "Packages": {
+        "$path": "Packages"
+      }
+    },
+    
+    "ServerStorage": {
+      "ServerPackages": {
+        "$path": "ServerPackages"
+      },
+    },
+  }
+}
