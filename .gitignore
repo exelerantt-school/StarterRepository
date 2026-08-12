@@ -1,0 +1,21 @@
+# Argon
+/sourcemap.json
+
+# Wally
+/Packages
+/ServerPackages
+/DevPackages
+
+# Moonwave
+/Moonwave/build
+/Moonwave/env
+
+# Vercel
+.vercel
+.env.local*
+
+# Artifacts
+/*.lock
+
+# Misc
+.DS_Store
